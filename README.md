@@ -141,7 +141,7 @@ yescan-scan-qoder/
 ## 相关资源
 
 - [夸克扫描王开放平台](https://scan.quark.cn/business) — 密钥申请、API 文档
-- [ClawHub 技能页](https://clawhub.ai/mozhihuidage/yescan-scan-universal) — 安装、下载量、评分
+- [ClawHub 技能页](https://clawhub.ai/yescan-ai/yescan-scan-universal) — 安装、下载量、评分
 - [QoderWork](https://qoder.com) — Agent 运行环境
 - [yescan-ai GitHub Org](https://github.com/yescan-ai) — 更多技能
 
