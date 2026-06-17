@@ -1,6 +1,11 @@
 # yescan-scan-qoder
 
+[![ClawHub Downloads](https://img.shields.io/badge/ClawHub-downloads-blue?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)](https://clawhub.ai/mozhihuidage/yescan-scan-universal)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 > 夸克扫描王 · 图像增强 Agent Skill — 适用于 Qoder 平台
+>
+> 📦 ClawHub 主页：[yescan-scan-universal](https://clawhub.ai/yescan-ai/yescan-scan-universal)
 
 当用户需要对图片、截图进行画质优化、瑕疵去除或视觉增强时，AI Agent 可通过本技能自动调用夸克扫描王图像增强 API，完成从意图识别到命令执行的全流程。
 
@@ -135,7 +140,10 @@ yescan-scan-qoder/
 
 ## 相关资源
 
-- [夸克扫描王开放平台](https://scan.quark.cn/business)
+- [夸克扫描王开放平台](https://scan.quark.cn/business) — 密钥申请、API 文档
+- [ClawHub 技能页](https://clawhub.ai/mozhihuidage/yescan-scan-universal) — 安装、下载量、评分
+- [QoderWork](https://qoder.com) — Agent 运行环境
+- [yescan-ai GitHub Org](https://github.com/yescan-ai) — 更多技能
 
 ## License
 
